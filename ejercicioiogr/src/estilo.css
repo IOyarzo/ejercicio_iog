@@ -1,0 +1,25 @@
+/* estilo.css */
+.container {
+  margin: 20px auto; /* Centrar el contenedor horizontalmente y agregar espacio alrededor */
+  padding: 20px; /* Agregar espacio interno al contenedor */
+  border: 1px solid #ccc; /* Agregar borde */
+}
+.app-container {
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.alert {
+  margin-top: 20px;
+}
+.form-control {
+  width: 100%; /* Hacer que los input ocupen todo el ancho disponible */
+  max-width: 400px; /* Establecer un ancho máximo para evitar que los input se expandan demasiado en pantallas grandes */
+}
+
+.table {
+  width: 100%; /* Hacer que la tabla ocupe todo el ancho disponible */
+}
